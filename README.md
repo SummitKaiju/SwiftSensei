@@ -1,10 +1,10 @@
 
-# SwiftSensei
-**Guiding you towards cleaner Swift code!**
+![SwiftSensei](https://via.placeholder.com/150x30/ff6347/FFFFFF?text=SwiftSensei)
+![Guiding you towards cleaner Swift code!](https://via.placeholder.com/350x20/32CD32/FFFFFF?text=Guiding%20you%20towards%20cleaner%20Swift%20code!)
 
 SwiftSensei is a nimble Ruby script tailored for Swift developers. It brings to light common code quality issues, ensuring that your Swift code remains sharp and refined. From lingering "TODO" comments to potential pitfalls, SwiftSensei is here to guide you!
 
-## Features:
+## ![Features](https://via.placeholder.com/100x20/4B0082/FFFFFF?text=Features):
 1. **Comment Hunt**: Discovers "TODO" and "FIXME" annotations.
 2. **Indentation Guru**: Identifies duplicate lines and inconsistent indentation.
 3. **Naming Dojo**: Ensures variables adhere to the camelCase convention.
@@ -13,11 +13,11 @@ SwiftSensei is a nimble Ruby script tailored for Swift developers. It brings to 
 6. **Magic Number Mystic**: Finds unexplained numbers in your code.
 7. **Safety Sentinel**: Advises against risky force unwraps.
 
-## Requirements:
+## ![Requirements](https://via.placeholder.com/140x20/FFD700/000000?text=Requirements):
 - Ruby
 - 'colorize' gem: Get it with `gem install colorize`.
 
-## Usage:
+## ![Usage](https://via.placeholder.com/80x20/20B2AA/FFFFFF?text=Usage):
 1. In the terminal, navigate to your Swift project directory.
 2. Initiate SwiftSensei with:
    ```bash
@@ -25,7 +25,7 @@ SwiftSensei is a nimble Ruby script tailored for Swift developers. It brings to 
    ```
 3. Reflect upon SwiftSensei's insights and elevate your code.
 
-## Xcode Integration via Run Script:
+## ![Xcode Integration](https://via.placeholder.com/180x20/8A2BE2/FFFFFF?text=Xcode%20Integration%20via%20Run%20Script):
 To have SwiftSensei's wisdom right in Xcode, here's how:
 
 1. Open your project in Xcode.
@@ -38,8 +38,8 @@ To have SwiftSensei's wisdom right in Xcode, here's how:
 5. Position this script above the "Compile Sources" phase.
 6. When you build, SwiftSensei will share its findings as Xcode warnings.
 
-## Contributing:
+## ![Contributing](https://via.placeholder.com/150x20/DC143C/FFFFFF?text=Contributing):
 Share your wisdom! Enhancements and new checks are welcomed. Fork SwiftSensei and send in your pull requests.
 
-## Note:
+## ![Note](https://via.placeholder.com/70x20/00008B/FFFFFF?text=Note):
 SwiftSensei uses heuristics. Some findings might be subjective. Always meditate upon the output and follow your coding instincts.
